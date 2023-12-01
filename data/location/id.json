@@ -102,17 +102,6 @@
     },
     {
       "apiName": "Nama Daerah Seluruh Indonesia",
-      "status": false,
-      "documentationUrl": "https://farizdotid.com/blog/dokumentasi-api-daerah-indonesia/",
-      "developer": {
-        "name": "farizdotid",
-        "profileUrl": "https://github.com/farizdotid"
-      },
-      "description": "Daftar nama Provinsi, Kabupaten, Kecamatan, dan Desa.",
-      "authentication": false
-    },
-    {
-      "apiName": "Nama Daerah Seluruh Indonesia",
       "status": true,
       "documentationUrl": "https://ibnux.github.io/data-indonesia",
       "developer": {
