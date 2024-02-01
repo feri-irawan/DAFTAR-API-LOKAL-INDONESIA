@@ -135,7 +135,7 @@
     },
     {
       "apiName": "Places API Indonesia",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://goapi.id/p/places-api",
       "developer": {
         "name": "goapi-id",
