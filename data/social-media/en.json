@@ -3,7 +3,7 @@
   "apis": [
     {
       "apiName": "Facebook Video Downloader",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://github.com/bramaudi/fbdown",
       "developer": {
         "name": "bramaudi",
