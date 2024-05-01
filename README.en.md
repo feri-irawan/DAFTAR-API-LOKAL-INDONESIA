@@ -110,7 +110,7 @@ This file is translation from Original (Bahasa Indonesia).
 | Student Blue Archive                       | arufars                                 | [Link](https://github.com/arufars/api-blue-archive)                                                     | ✅     | Unofficial API containing character data information from the game Blue Archive.                                                                  | `false`        |
 | Tahukah Anda API                           | Icaksh                                  | [Link](https://cinnabar.icaksh.my.id/public/daily/tawiki)                                               | ✅     | API to get daily facts (Did You Know?) from Wikipedia.                                                                                            | `false`        |
 | Tanggal Lahiran Pasaran Zodiak             | iBachor                                 | [Link](https://github.com/bachors/apiapi#tanggal-lahiran-pasaran-zodiak)                                | ✅     | Checks the zodiac sign based on birth date and provides birth date details, age details, and nearest upcoming birthday details.                   | `false`        |
-| TOOLCEK                                    | Alex                                    | [Link](https://documenter.getpostman.com/view/13751573/2s8Z6vYZgS#b488f545-0053-4818-a440-ddc360391d36) | ✅     | API to check Game IDs, Bank Account Numbers, E-Wallet Numbers, PLN Meter Numbers, etc. Helps you with validation and integration in your systems! | API KEY        |
+| TOOLCEK                                    | Alex                                    | [Link](https://documenter.getpostman.com/view/13751573/2s8Z6vYZgS#b488f545-0053-4818-a440-ddc360391d36) | ❎     | API to check Game IDs, Bank Account Numbers, E-Wallet Numbers, PLN Meter Numbers, etc. Helps you with validation and integration in your systems! | API KEY        |
 
 ### Financial
 
@@ -213,7 +213,7 @@ This file is translation from Original (Bahasa Indonesia).
 | API Name   | Developer                                               | Documentation                       | Status | Description                                                                                                                           | Authentication |
 | ---------- | ------------------------------------------------------- | ----------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
 | Akuari Api | akuari                                                  | [Link](https://api.akuari.my.id/)   | ✅     | A collection of bot needs api, and some api: Visitor api, Check ip api, Check Website Live or not, File api, etc. with JSON response. | `false`        |
-| ConnectAPI | [Ihsan Devs](https://ihsandevs.com)                     | [Link](https://api.ihsandevs.io)    | ✅     | The public API that provides various APIs and API services will increase over time.                                                   | API KEY        |
+| ConnectAPI | [Ihsan Devs](https://ihsandevs.com)                     | [Link](https://api.ihsandevs.io)    | ❎     | The public API that provides various APIs and API services will increase over time.                                                   | API KEY        |
 | Forest API | [Rio Agung Purnomo](https://github.com/rioagungpurnomo) | [Link](https://www.forestapi.my.id) | ✅     | A collection of unlimited free APIs that can be used anytime and anywhere.                                                            | `false`        |
 
 ### Music
@@ -254,13 +254,12 @@ This file is translation from Original (Bahasa Indonesia).
 
 ### Social Media
 
-| API Name                   | Developer | Documentation                                                              | Status | Description                                           | Authentication |
-| -------------------------- | --------- | -------------------------------------------------------------------------- | ------ | ----------------------------------------------------- | -------------- |
-| Facebook Video Downloader  | bramaudi  | [Link](https://github.com/bramaudi/fbdown)                                 | ❎     | Unofficial Facebook API for Scraping Facebook Videos. | `false`        |
-| Instagram Official API     | Facebook  | [Link](https://developers.facebook.com/docs/instagram-api/getting-started) | ✅     | Official API for Instagram Graph API.                 | `false`        |
-| Twitter Trends             | azharimm  | [Link](https://github.com/azharimm/twitter-trends-api)                     | ✅     | Unofficial API for Twitter trends data.               | `false`        |
-| Whatsapp Cloud API Wrapper | fdciabdul | [Link](https://github.com/fdciabdul/WhatsApp-Cloud-API-Wrapper)            | ✅     | Unofiicial Wrapper untuk Whatsapp Cloud API.          | `false`        |
-| Whatsapp Official API      | Facebook  | [Link](https://developers.facebook.com/docs/whatsapp)                      | ✅     | Official API for Whatsapp Cloud API.                  | `false`        |
+| API Name                   | Developer | Documentation                                                              | Status | Description                                  | Authentication |
+| -------------------------- | --------- | -------------------------------------------------------------------------- | ------ | -------------------------------------------- | -------------- |
+| Instagram Official API     | Facebook  | [Link](https://developers.facebook.com/docs/instagram-api/getting-started) | ✅     | Official API for Instagram Graph API.        | `false`        |
+| Twitter Trends             | azharimm  | [Link](https://github.com/azharimm/twitter-trends-api)                     | ✅     | Unofficial API for Twitter trends data.      | `false`        |
+| Whatsapp Cloud API Wrapper | fdciabdul | [Link](https://github.com/fdciabdul/WhatsApp-Cloud-API-Wrapper)            | ✅     | Unofiicial Wrapper untuk Whatsapp Cloud API. | `false`        |
+| Whatsapp Official API      | Facebook  | [Link](https://developers.facebook.com/docs/whatsapp)                      | ✅     | Official API for Whatsapp Cloud API.         | `false`        |
 
 ### Utilities
 

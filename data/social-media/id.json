@@ -2,17 +2,6 @@
   "categoryName": "Sosial Media",
   "apis": [
     {
-      "apiName": "Facebook Video Downloader",
-      "status": false,
-      "documentationUrl": "https://github.com/bramaudi/fbdown",
-      "developer": {
-        "name": "bramaudi",
-        "profileUrl": null
-      },
-      "description": "Unofficial API Facebook untuk Scraping Video Facebook.",
-      "authentication": false
-    },
-    {
       "apiName": "Instagram Official API ",
       "status": true,
       "documentationUrl": "https://developers.facebook.com/docs/instagram-api/getting-started",
