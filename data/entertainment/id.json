@@ -220,17 +220,6 @@
       },
       "description": "Mengecek zodiak berdasarkan tanggal lahir serta dapat memberitahukan detail tanggal lahir, detail usia, serta detail rentang ulang tahun terdekat.",
       "authentication": false
-    },
-    {
-      "apiName": "TOOLCEK",
-      "status": false,
-      "documentationUrl": "https://documenter.getpostman.com/view/13751573/2s8Z6vYZgS#b488f545-0053-4818-a440-ddc360391d36",
-      "developer": {
-        "name": "Alex",
-        "profileUrl": null
-      },
-      "description": "API Cek ID Games,Nomor Rekening,Nomor E-Wallet,Nomor meter PLN,DLL,Membantumu dalam system validasi,Integrasikan sekarang juga!",
-      "authentication": "API KEY"
     }
   ]
 }
