@@ -11,17 +11,6 @@
       },
       "description": "A collection of bot needs api, and some api: Visitor api, Check ip api, Check Website Live or not, File api, etc. with JSON response.",
       "authentication": false
-    },
-    {
-      "apiName": "Forest API",
-      "status": false,
-      "documentationUrl": "https://www.forestapi.my.id",
-      "developer": {
-        "name": "Rio Agung Purnomo",
-        "profileUrl": "https://github.com/rioagungpurnomo"
-      },
-      "description": "A collection of unlimited free APIs that can be used anytime and anywhere.",
-      "authentication": false
     }
   ]
 }

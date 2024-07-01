@@ -142,7 +142,7 @@ This file is translation from Original (Bahasa Indonesia).
 
 | API Name                             | Developer  | Documentation                                         | Status | Description                                         | Authentication |
 | ------------------------------------ | ---------- | ----------------------------------------------------- | ------ | --------------------------------------------------- | -------------- |
-| Hot Threads from Kaskus (Unofficial) | Bayu       | [Link](https://api.bayyu.net)                         | ❎     | Retrieve hot threads from Kaskus.                   | API KEY        |
+| Hot Threads from Kaskus (Unofficial) | Bayu       | [Link](https://api.bayyu.net)                         | ✅     | Retrieve hot threads from Kaskus.                   | API KEY        |
 | Kaskus API                           | Kaskus Dev | [Link](https://github.com/kaskus/kaskus-php-sdk/wiki) | ✅     | API to access the famous Indonesian forum - Kaskus. | OAUTH          |
 
 ### General
@@ -209,10 +209,9 @@ This file is translation from Original (Bahasa Indonesia).
 
 ### Multipurpose
 
-| API Name   | Developer                                               | Documentation                       | Status | Description                                                                                                                           | Authentication |
-| ---------- | ------------------------------------------------------- | ----------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| Akuari Api | akuari                                                  | [Link](https://api.akuari.my.id/)   | ✅     | A collection of bot needs api, and some api: Visitor api, Check ip api, Check Website Live or not, File api, etc. with JSON response. | `false`        |
-| Forest API | [Rio Agung Purnomo](https://github.com/rioagungpurnomo) | [Link](https://www.forestapi.my.id) | ❎     | A collection of unlimited free APIs that can be used anytime and anywhere.                                                            | `false`        |
+| API Name   | Developer | Documentation                     | Status | Description                                                                                                                           | Authentication |
+| ---------- | --------- | --------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| Akuari Api | akuari    | [Link](https://api.akuari.my.id/) | ✅     | A collection of bot needs api, and some api: Visitor api, Check ip api, Check Website Live or not, File api, etc. with JSON response. | `false`        |
 
 ### Music
 

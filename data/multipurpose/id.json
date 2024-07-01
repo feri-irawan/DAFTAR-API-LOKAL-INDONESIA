@@ -11,17 +11,6 @@
       },
       "description": "Kumpulan api kebutuhan bot, dan beberapa api:  Visitor api, Cek ip api, Cek Website Hidup atau tidak, File api, dan lain-lain dengan respon JSON.",
       "authentication": false
-    },
-    {
-      "apiName": "Forest API",
-      "status": false,
-      "documentationUrl": "https://www.forestapi.my.id",
-      "developer": {
-        "name": "Rio Agung Purnomo",
-        "profileUrl": "https://github.com/rioagungpurnomo"
-      },
-      "description": "Kumpulan API gratis tanpa batas yang dapat digunakan kapan saja dan di mana saja.",
-      "authentication": false
     }
   ]
 }

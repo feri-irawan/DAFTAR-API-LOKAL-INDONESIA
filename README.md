@@ -129,7 +129,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 
 | Nama API                        | Pengembang | Dokumentasi                                           | Status | Deskripsi                                                 | Autentikasi |
 | ------------------------------- | ---------- | ----------------------------------------------------- | ------ | --------------------------------------------------------- | ----------- |
-| Hot thread kaskus (Un-official) | Bayu       | [Link](https://api.bayyu.net)                         | ❎     | Mendapatkan hot-thread dari Kaskus.                       | API KEY     |
+| Hot thread kaskus (Un-official) | Bayu       | [Link](https://api.bayyu.net)                         | ✅     | Mendapatkan hot-thread dari Kaskus.                       | API KEY     |
 | Kaskus API                      | Kaskus Dev | [Link](https://github.com/kaskus/kaskus-php-sdk/wiki) | ✅     | API untuk mengakses forum terkenal di Indonesia - Kaskus. | OAUTH       |
 
 ### Hiburan
@@ -246,10 +246,9 @@ Kumpulan API tentang data dan informasi di Indonesia
 
 ### Serba Guna
 
-| Nama API   | Pengembang                                              | Dokumentasi                         | Status | Deskripsi                                                                                                                                        | Autentikasi |
-| ---------- | ------------------------------------------------------- | ----------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
-| Akuari Api | akuari                                                  | [Link](https://api.akuari.my.id/)   | ✅     | Kumpulan api kebutuhan bot, dan beberapa api: Visitor api, Cek ip api, Cek Website Hidup atau tidak, File api, dan lain-lain dengan respon JSON. | `false`     |
-| Forest API | [Rio Agung Purnomo](https://github.com/rioagungpurnomo) | [Link](https://www.forestapi.my.id) | ❎     | Kumpulan API gratis tanpa batas yang dapat digunakan kapan saja dan di mana saja.                                                                | `false`     |
+| Nama API   | Pengembang | Dokumentasi                       | Status | Deskripsi                                                                                                                                        | Autentikasi |
+| ---------- | ---------- | --------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
+| Akuari Api | akuari     | [Link](https://api.akuari.my.id/) | ✅     | Kumpulan api kebutuhan bot, dan beberapa api: Visitor api, Cek ip api, Cek Website Hidup atau tidak, File api, dan lain-lain dengan respon JSON. | `false`     |
 
 ### Sosial Media
 
