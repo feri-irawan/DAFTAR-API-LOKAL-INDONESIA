@@ -3,7 +3,7 @@
   "apis": [
     {
       "apiName": "Instagram Official API ",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://developers.facebook.com/docs/instagram-api/getting-started",
       "developer": {
         "name": "Facebook",

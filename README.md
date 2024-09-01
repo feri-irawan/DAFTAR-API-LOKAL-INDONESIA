@@ -130,7 +130,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Nama API                        | Pengembang | Dokumentasi                                           | Status | Deskripsi                                                 | Autentikasi |
 | ------------------------------- | ---------- | ----------------------------------------------------- | ------ | --------------------------------------------------------- | ----------- |
 | Hot thread kaskus (Un-official) | Bayu       | [Link](https://api.bayyu.net)                         | ✅     | Mendapatkan hot-thread dari Kaskus.                       | API KEY     |
-| Kaskus API                      | Kaskus Dev | [Link](https://github.com/kaskus/kaskus-php-sdk/wiki) | ✅     | API untuk mengakses forum terkenal di Indonesia - Kaskus. | OAUTH       |
+| Kaskus API                      | Kaskus Dev | [Link](https://github.com/kaskus/kaskus-php-sdk/wiki) | ❎     | API untuk mengakses forum terkenal di Indonesia - Kaskus. | OAUTH       |
 
 ### Hiburan
 
@@ -254,7 +254,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 
 | Nama API                   | Pengembang | Dokumentasi                                                                | Status | Deskripsi                                    | Autentikasi |
 | -------------------------- | ---------- | -------------------------------------------------------------------------- | ------ | -------------------------------------------- | ----------- |
-| Instagram Official API     | Facebook   | [Link](https://developers.facebook.com/docs/instagram-api/getting-started) | ✅     | Official API untuk Instagram Graph API.      | `false`     |
+| Instagram Official API     | Facebook   | [Link](https://developers.facebook.com/docs/instagram-api/getting-started) | ❎     | Official API untuk Instagram Graph API.      | `false`     |
 | Twitter Trends             | azharimm   | [Link](https://github.com/azharimm/twitter-trends-api)                     | ✅     | Unofficial API Twitter trends data.          | `false`     |
 | Whatsapp Cloud API Wrapper | fdciabdul  | [Link](https://github.com/fdciabdul/WhatsApp-Cloud-API-Wrapper)            | ✅     | Unofiicial Wrapper untuk Whatsapp Cloud API. | `false`     |
 | Whatsapp Official API      | Facebook   | [Link](https://developers.facebook.com/docs/whatsapp)                      | ✅     | Official API untuk Whatsapp Cloud API.       | `false`     |
